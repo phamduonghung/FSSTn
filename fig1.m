@@ -1,7 +1,7 @@
 function fig1()
 % fig1 : draws Figure 1 of paper "High-Order Synchrosqueezing Transform for
 % Multicomponent Signals Analysis - With an Application to Gravitational-Wave Signal, by PHAM and Meignen.
-
+%
 clc; clear all; close all;
 set(0,'DefaultAxesFontSize',14);
 chemin0 = '~/Dropbox/Papers_PHAM_MEIGNEN/Journal_IEEE_2016/Tex/Figures';
