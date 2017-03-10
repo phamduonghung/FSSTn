@@ -1,11 +1,13 @@
 # FSSTn
 This MATLAB package is a collection of scripts allowing to generate figures in the paper [1]. This paper puts forward a generalization of the short-time Fourier-based Synchrosqueezing Transform using a new local estimate of instantaneous frequency. Such a technique enables not only to achieve a highly concentrated time-frequency representation for a wide variety of AM-FM multicomponent signals but also to reconstruct their modes with a high accuracy.
 
-This script needs some functions, including the fast EMD and the synchrosqueezed wavelet packet transform, that can be downloaded from https://github.com/HaizhaoYang/SST_compare/blob/master/comparison/
+For Figure 5, one need some functions, including the fast EMD and the synchrosqueezed wavelet packet transform, that can be downloaded from https://github.com/HaizhaoYang/SST_compare/blob/master/comparison/
+
+
+
 
 
 [1] High-Order Synchrosqueezing Transform for Multicomponent Signals Analysis - With an Application to Gravitational-Wave Signal. 
-
 
 
 1. COPY RIGHT
