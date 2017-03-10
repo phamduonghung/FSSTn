@@ -4,10 +4,7 @@ This MATLAB package is a collection of scripts allowing to generate figures in t
 For Figure 5, one need some functions, including the fast EMD that can be downloaded from https://github.com/HaizhaoYang/SST_compare/blob/master/comparison/
 
 
-
-
-
-[1] High-Order Synchrosqueezing Transform for Multicomponent Signals Analysis - With an Application to Gravitational-Wave Signal. 
+[1] High-Order Synchrosqueezing Transform for Multicomponent Signals Analysis - With an Application to Gravitational-Wave Signal, submitted for IEEE TSP, 2017. 
 
 
 1. COPY RIGHT
