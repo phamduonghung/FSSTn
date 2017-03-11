@@ -1,5 +1,5 @@
 function [STFT,SST1,SST2,SST3,SST4,omega,omega2,omega3,tau2,tau3,phi22p,phi33p,phi44p] = sstn_test(s,gamma,sigma,ft,bt)
-%% sstn : computes the STFT of a signal and different versions of synchrosqueezing/reassignment.
+% sstn : computes the STFT of a signal and different versions of synchrosqueezing/reassignment.
 %   Uses a Gaussian window.
 %
 % INPUTS:  
