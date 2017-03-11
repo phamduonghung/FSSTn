@@ -6,7 +6,6 @@ For Figure 5, one need some functions, including the fast EMD that can be downlo
 
 [1] High-Order Synchrosqueezing Transform for Multicomponent Signals Analysis - With an Application to Gravitational-Wave Signal, submitted for IEEE TSP, 2017. 
 
-
 1. COPY RIGHT
 
 FSSTn is copyright reserved. For further information, please contact Duong Hung PHAM at duong-hung.pham@univ-grenoble-alpes.fr and Sylvain Meignen at Sylvain.Meignen@univ-grenoble-alpes.fr. 
