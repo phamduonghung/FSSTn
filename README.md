@@ -8,4 +8,4 @@ For Figure 5, one need some functions, including the fast EMD that can be downlo
 
 1. COPY RIGHT
 
-FSSTn is copyright reserved. For further information, please contact Duong Hung PHAM at duong-hung.pham@univ-grenoble-alpes.fr and Sylvain Meignen at Sylvain.Meignen@univ-grenoble-alpes.fr. 
+FSSTn is copyright reserved. For further information, please contact Duong Hung PHAM at phamduonghung1712@gmail.com and Sylvain Meignen at Sylvain.Meignen@univ-grenoble-alpes.fr. 
